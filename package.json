@@ -1,6 +1,6 @@
 {
   "name": "react-slack-notification",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Send message to slack using react",
   "author": "Nilanth",
   "keywords": ["react", "notification", "slack", "error-log", "log"],
