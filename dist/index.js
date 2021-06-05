@@ -1,13 +1,2 @@
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _Notify = _interopRequireDefault(require("./components/Notify"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-var _default = _Notify.default;
-exports.default = _default;
+import Notify from "./components/Notify";
+export default Notify;
