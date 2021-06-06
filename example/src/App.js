@@ -5,7 +5,7 @@ import notifyToSlackChannel from 'react-slack-notification'
 const App = () => {
 
   const notifyToSlack = () => {
-    return notifyToSlackChannel('https://hooks.slack.com/services/xxxxxxxxxxxxxxxxxxxxxxx', 'Handled error\n' +
+    return notifyToSlackChannel('https://hooks.slack.com/services/xxxxxxxxxxxxxx/sample-url', 'Handled error\n' +
       'Error: Invalid refresh token\n' +
       'Location\n' +
       'redux/helper.js:117 - handleException',
