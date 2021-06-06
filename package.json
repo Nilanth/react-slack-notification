@@ -1,6 +1,6 @@
 {
   "name": "react-slack-notification",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Slack Notification is a lightweight package, Send messages to a Slack channel directly from your react app",
   "author": "Nilanth",
   "keywords": [
